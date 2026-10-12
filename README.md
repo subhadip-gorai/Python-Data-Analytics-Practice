@@ -45,7 +45,8 @@ My goal is to develop strong Python programming and problem-solving skills and a
 Python-Data-Analytics-Practice/
 │
 ├── 01_Python_Fundamentals/
-│    └── 01_variables_and_data_types.ipynb
+│   ├── 01_variables_and_data_types.ipynb
+│   └── 02_operators_and_type_casting.ipynb    
 │
 ├── .gitignore
 └── README.md
