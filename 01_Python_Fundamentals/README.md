@@ -6,7 +6,7 @@ This directory contains structured Python practice exercises focused on building
 
 ## Practice Files
 
-### 1. `01_variables_and_data_types.ipynb`
+### 1. 01_variables_and_data_types.ipynb
 
 **Topics Covered**
 
@@ -15,7 +15,7 @@ This directory contains structured Python practice exercises focused on building
 * Identifying and understanding data types
 * Basic coding exercises
 
-### 2. `02_operators_and_type_casting.ipynb`
+### 2. 02_operators_and_type_casting.ipynb
 
 **Topics Covered**
 
@@ -25,6 +25,24 @@ This directory contains structured Python practice exercises focused on building
 * Identity operators: `is`, `is not`
 * Membership operators: `in`, `not in`
 * Type casting and data type conversion
+
+### 03. Strings and String Operations
+
+**Topics Covered:**
+* Introduction to Strings
+* Accessing String Elements Using Positive Indexing
+* Accessing String Elements Using Negative Indexing
+* Extracting Substrings Using Slicing
+* Advanced Slicing Using Step Size
+* String Case Conversion Methods
+* String Operations and Comparisons
+* Modifying Strings Using `replace()`, `split()`, and `strip()`
+* Searching Substrings Using `index()` and `find()`
+* Counting Substrings Using `count()`
+* String Validation Methods
+* Swapping Case Using `swapcase()`
+* String Formatting with Variables
+* Swapping Variable Values
 
 ## Technologies and Tools
 
