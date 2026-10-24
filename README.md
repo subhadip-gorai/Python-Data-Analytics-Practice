@@ -46,8 +46,9 @@ Python-Data-Analytics-Practice/
 │
 ├── 01_Python_Fundamentals/
 │   ├── 01_variables_and_data_types.ipynb
-│   └── 02_operators_and_type_casting.ipynb    
-│
+│   ├── 02_operators_and_type_casting.ipynb    
+│   └── 03_strings_and_string_operations.ipynb
+│ 
 ├── .gitignore
 └── README.md
 ```
